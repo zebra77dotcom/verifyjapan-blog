@@ -185,3 +185,4 @@ export default makeSource({
     createSearchIndex(allBlogs)
   },
 })
+// Force rebuild with contentlayer 0.5.9
